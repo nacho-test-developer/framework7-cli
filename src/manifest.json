@@ -1,8 +1,8 @@
 {
-  "name": "Test",
-  "short_name": "Test",
-  "description": "Test",
-  "lang": "en-US",
+  "name": "Daily",
+  "short_name": "Daily",
+  "description": "Daily",
+  "lang": "es-AR",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#3eaf7c",

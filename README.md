@@ -6,7 +6,7 @@ Framework7 app created with following options:
 
 ```
 {
-  "cwd": "/Users/nachito/Documents/projects/Frontend/Vue/framework7-cli",
+  "cwd": "framework7-cli",
   "type": [
     "pwa"
   ],
